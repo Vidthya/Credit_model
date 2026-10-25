@@ -1,0 +1,31 @@
+item,compared_with,psi,reading
+model score,valid,0.011244739710450109,stable
+loan_amnt,valid,0.011872275970583997,stable
+emp_length,valid,0.010737601769632898,stable
+annual_inc_log,valid,0.004731669518963271,stable
+dti,valid,0.02780355612841457,stable
+delinq_2yrs,valid,0.024543643531486838,stable
+inq_last_6mths,valid,0.002000520319592308,stable
+open_acc,valid,0.022712853953262516,stable
+pub_rec,valid,,significant shift
+revol_bal_log,valid,0.010342784524920783,stable
+revol_util,valid,0.02426894282225103,stable
+total_acc,valid,0.021001324539672094,stable
+fico_mid,valid,0.06675975081292475,stable
+credit_history_years,valid,0.04288821303048273,stable
+pub_rec_bankruptcies,valid,,significant shift
+model score,test,0.004935280288950841,stable
+loan_amnt,test,0.020502022803401097,stable
+emp_length,test,0.017234340881484914,stable
+annual_inc_log,test,0.010506898166078747,stable
+dti,test,0.07481795363026336,stable
+delinq_2yrs,test,0.02475162396719359,stable
+inq_last_6mths,test,0.04925669399338224,stable
+open_acc,test,0.03518639616655007,stable
+pub_rec,test,,significant shift
+revol_bal_log,test,0.012852234074503735,stable
+revol_util,test,0.04022545362264948,stable
+total_acc,test,0.007661825442969833,stable
+fico_mid,test,0.050849215346643536,stable
+credit_history_years,test,0.052766162209421624,stable
+pub_rec_bankruptcies,test,,significant shift

@@ -1,0 +1,15 @@
+model,approval_rate,bad_rate_among_approved
+logistic_regression,1.0,0.14886264866125373
+logistic_regression,0.9,0.13459326405546418
+logistic_regression,0.8,0.12325324617966611
+logistic_regression,0.7,0.11266013184062024
+logistic_regression,0.6,0.10294143626888085
+logistic_regression,0.5,0.09308685421127387
+logistic_regression,0.4,0.08274887377440156
+gradient_boosting,1.0,0.14886264866125373
+gradient_boosting,0.9,0.13320351911684458
+gradient_boosting,0.8,0.12153520007066514
+gradient_boosting,0.7,0.1110499803147619
+gradient_boosting,0.6,0.10086859229161146
+gradient_boosting,0.5,0.09026025877481221
+gradient_boosting,0.4,0.07914495185937638
